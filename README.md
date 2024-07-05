@@ -3,7 +3,7 @@ A simple WMS for tire label based on Streamlit, streamlit_antd_components and sq
 
 # run Label_WMS
 pip install requirements.txt
-streamlit run app.py
+streamlit run app.py（if you want without login，streamlit run app_without_login.py）
 
 # defeat account & password
 username:admin
@@ -27,7 +27,7 @@ password:123456
 Label_WMS是一款基于Streamlit,streamlit_antd_components和sqlite3的用于轮胎标签管理的简单系统
 
 # 运行系统
-安装requirements.txt下的库，完成后使用streamlit run app.py命令运行系统
+安装requirements.txt下的库，完成后使用streamlit run app.py命令运行系统（如果不需要登陆，使用streamlit run app_without_login.py）
 
 # 默认账户和密码
 用户名：admin
