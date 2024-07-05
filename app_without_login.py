@@ -33,7 +33,7 @@ hide_st_style = """
         #root > div:nth-child(1) > div > div > div > div > section > div {padding-top: 0rem;}
         </style>
         """
-st.markdown(hide_st_style, unsafe_allow_html=True)
+#st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # Sidebar顶格设置
 st_sidebar_style =f"""
