@@ -136,4 +136,4 @@ elif menu == "套外关系维护":
 elif menu == '退出登录':
     with st.spinner("加载中……"):
         st.session_state["auth_status"] = 1
-        st.rerun()
+        # st.rerun()
